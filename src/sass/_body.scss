@@ -1,0 +1,132 @@
+.body1 {
+    background: $body;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: auto;
+    flex-direction:row;
+    .wst {
+        margin-top: 2vh;
+        font-size: 3vh;
+        color: $text2;
+    }
+    .img3 {
+        margin-top: -3vh;
+        width: 100vw;
+        height: 10vh;
+
+    }
+
+    .bod2 {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        height: auto;
+        width: 100vw;
+
+
+
+        .img2 {
+            width: 20vw;
+            align-content: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100vw;
+            height: 190px;
+        }
+        .text2{
+            font-size: 3vh;
+            color: $text2;
+            margin-left: 2vw;
+
+        }
+        
+    }
+ 
+
+
+    .tex{
+        font-size: 2vh;
+        color: $text2;
+        margin-right: 5vw;
+        margin-left: 5vw;
+        margin-top: 4vh;
+        margin-bottom: 4vh;
+
+
+    }
+
+}
+
+.body5 {
+    background: $body;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: auto;
+    
+    flex-direction:row;
+    .bod5 {
+        margin-top: 12vh;
+        margin-bottom: 50vh;
+    }
+}
+
+.mn2 {
+    width: 100vw;
+    
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    .header2 {
+
+        align-content: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        height: 120px;
+        
+    
+            
+    }
+
+    .dwH2 {
+        flex-direction: row;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        background: $hed;
+        
+        width: 100vw;
+        height: 35px;
+        
+        .ods2 {
+            margin-left: 15%;
+            color: $txte;
+            text-decoration: none;
+        }
+        
+        .col2 {
+            margin-left: 15px;
+            color: $txte;
+            text-decoration: none;
+        }
+        
+        
+    }
+}
+
+
+
+
+
+
+
